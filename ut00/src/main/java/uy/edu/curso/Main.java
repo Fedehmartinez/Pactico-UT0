@@ -1,4 +1,4 @@
-package ejercicio1;
+package uy.edu.curso;
 
 public class Main {
     public static void main(String[] args) {
